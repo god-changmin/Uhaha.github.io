@@ -6,11 +6,11 @@ title:               Uhaha111
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 www.naver.com
+url:                 https://god-changmin.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             ""
+baseurl:             "/Uhaha.github.io/"
 
 # A very short description of your page
 tagline:             "All roads lead to data."
